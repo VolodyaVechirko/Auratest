@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AuraTest</string>
+
+    <string name="notification_no_events">No boots detected</string>
+    <!--  %s - timestamp_of_the_boot_event  -->
+    <string name="notification_one_event">The boot was detected with the timestamp = %d</string>
+    <!--  %s - time_between_2_last_boot_events  -->
+    <string name="notification_more_events">Last boots time delta = %d</string>
+</resources>
